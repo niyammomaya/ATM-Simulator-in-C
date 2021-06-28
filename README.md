@@ -16,7 +16,7 @@ The ATM simulator that we have developed by using C programming has the followin
 
 3)For transactions – This option enables the user to perform transactions to an existing bank account. The transactions function allows user to deposit money or withdraw money from their account.
 
-4) Check the details of an existing account – This option enables the user to check the user’s details of an existing bank account.
+4)Check the details of an existing account – This option enables the user to check the user’s details of an existing bank account.
  
 5)Remove existing account – This option enables the user to remove an existing bank account.
 
